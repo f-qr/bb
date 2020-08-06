@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.29797e5dd9cd0a9c85b544da83bf8488.js"
+  "/precache-manifest.65e4bb71a5adbfe043c5567dd1364714.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "code-mastery"});
